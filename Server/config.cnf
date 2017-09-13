@@ -1,0 +1,4 @@
+[mysqld]
+datadir=.\\data
+basedir=.\\mysql
+user = root
